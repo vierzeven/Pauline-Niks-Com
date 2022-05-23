@@ -1,0 +1,5 @@
+J is an employee at Defense Distributed, where he works on producing a Ghost Gunner.
+Defense Distributed sells lower receivers (the essential part of the gun) that are only finished for
+80%, so officially they are not defined as a lower receiver in the US. They also make a CNC milling
+machine called the Ghost Gunner. By using specific codes it is able to finish the remaining 20% of
+the lower receivers they sell. This way you are able to make your own unregistered gun.
